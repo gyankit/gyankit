@@ -8,6 +8,10 @@
 
 [![Gyan Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyankit)](https://github.com/gyankit/github-readme-stats)
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyankit)](https://github.com/gyankit/github-readme-stats)
+
 
 <!---
 gyankit/gyankit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
