@@ -2,12 +2,7 @@
 - 👀 I’m interested in ... Programming, want to become a Full Stack Developer.
 - 🌱 I’m currently learning ... Full Stack Development.
 - 💞️ I’m looking to collaborate on ... Yet not desided.
-- 📫 How to reach me ... Email - g.gyanankit@gmail.com
--                        Mobile - +91 9534470240 / +91 9123110910
-
----
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyankit&repo=restro)](https://github.com/gyankit/github-readme-stats)
+- 📫 How to reach me ... Email - g.gyanankit@gmail.com - Mobile - +91 9534470240 / +91 9123110910
 
 ---
 
