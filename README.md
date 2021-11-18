@@ -6,11 +6,15 @@
 
 ---
 
-[![Gyan Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyankit)](https://github.com/gyankit/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyankit&repo=github-readme-stats)](https://github.com/gyankit/github-readme-stats)
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyankit)](https://github.com/gyankit/github-readme-stats)
+
+---
+
+[![Gyan Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyankit&show_icons=true)](https://github.com/gyankit/github-readme-stats)
 
 
 <!---
