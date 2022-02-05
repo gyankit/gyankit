@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gyankit ... Gyan Ankit
 - 👀 I’m interested in ... Programming, want to become a Full Stack Developer.
 - 🌱 I’m currently learning ... Full Stack Development.
-- 💞️ I’m looking to collaborate on ... Yet not desided.
+- 💞️ I’m looking to collaborate on ... Yet not decided.
 - 📫 How to reach me ... Email - g.gyanankit@gmail.com - Mobile - +91 9534470240 / +91 9123110910
 
 ---
