@@ -3,8 +3,10 @@ Hi, I'm Gyan Ankit | Senior Full Stack Developer
 I am a Senior Software Engineer based in Bangalore with a passion for building scalable, cloud-native, and AI-enabled platforms. I specialize in creating systems that drive automation-led efficiency and high availability.
 
 <br>🛠 What I Do<br>
-<br>Full Stack Development: Expert in React, Next.js, and TypeScript for the frontend, and Python (FastAPI), Node.js for the backend.<br>+4<br><br><br>System Architecture: I design multi-tenant systems and centralized RBAC for secure data governance.<br>
-<br>Cloud & DevOps: Extensive experience with Azure, Kubernetes (HPA), Docker, and CI/CD pipelines via GitHub Actions.<br>+2<br><br><br>Observability: Implementing OpenTelemetry for distributed tracing and structured logging to ensure system reliability.<br>
+<br>Full Stack Development: Expert in React, Next.js, and TypeScript for the frontend, and Python (FastAPI), Node.js for the backend.<br>
+<br>System Architecture: I design multi-tenant systems and centralized RBAC for secure data governance.<br>
+<br>Cloud & DevOps: Extensive experience with Azure, Kubernetes (HPA), Docker, and CI/CD pipelines via GitHub Actions.<br>
+<br>Observability: Implementing OpenTelemetry for distributed tracing and structured logging to ensure system reliability.<br>
 
 <br>🚀 Proven Impact<br>
 <br>Efficiency: Delivered 80% automation-led efficiency in workforce delivery platforms.<br>
